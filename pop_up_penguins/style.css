@@ -1,0 +1,186 @@
+body {
+    background-color: #ccf5f5;
+}
+
+/*This styles the div in the HTML that contains and centers our penguin game*/
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*This styles the title div in or HTML*/
+#title {
+    width: 600px;
+    height: 150px;
+    /*This property embeds an image into the background of our div*/
+    background-image:url('https://drive.google.com/uc?id=1TpaanZflBaIgniylh0H8BCZhog6bi-fC');
+}
+
+
+/*This pseudo class is applied when the mouse hovers over the 1st penguin div*/
+.penguin1:hover {
+    background-image:url('https://drive.google.com/uc?id=1WocvUYDzUcoZOuHWL4airJXhyTcUBc9d');
+    /*This property changes our cursor to a pointer indicating an interactive element*/
+    cursor: pointer;
+}
+
+/*This pseudo class is applied when our 1st penguin div is clicked by the mouse button*/
+.penguin1:active {
+    background-image:url('https://drive.google.com/uc?id=1_s_Acfv138jXa5ZIVutSwCzph5K0B4yJ');
+}
+
+/*This is the style for our 1st penguin div*/
+.penguin1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=16oH_04DDt9V3xZR-Gc7QrsEiq-Kqe25L');
+}
+
+/*These are the styles for our 2nd penguin div.*/
+
+.penguin2:hover {
+    background-image:url('https://drive.google.com/uc?id=1krtzo3QyCqb6npFsL6_GxrWNy6oSHiti');
+    cursor: pointer;
+}
+
+.penguin2:active {
+    background-image:url('https://drive.google.com/uc?id=1IvhagSXtn1bCOYPgEkwwXAhUm2v1wfu2');
+}
+
+.penguin2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1hi0cKn_0z9lKMo21P6eGRKmXdbCqzfWh');
+}
+
+/*These are the styles for our 3rd penguin div.*/
+
+.penguin3:hover {
+    background-image:url('https://drive.google.com/uc?id=1zqFplCy8BERbkKK6cGv8XJjSoOBr-beN');
+    cursor: pointer;
+}
+
+.penguin3:active {
+    background-image:url('https://drive.google.com/uc?id=1Eq7XeVYjuztACsRqF74DLVkz_wRP_SpG');
+}
+
+.penguin3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1yaeDA1PzWNrRgFLWurCGCveLF4AA2VSC');
+}
+
+/*These are the styles for our 4th penguin div.*/
+
+.penguin4:hover {
+    background-image:url('https://drive.google.com/uc?id=180ez3QvesrEk-XgPN5wtW8BkdCireDWz');
+    cursor: pointer;
+}
+
+.penguin4:active {
+    background-image:url('https://drive.google.com/uc?id=1rNx9bnvalwABSEN7LQGUFTRpFuEdpPdK');
+}
+
+.penguin4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1TXCDbH0RVFAkqL55r22oH0yAygkGkJEC');
+}
+
+/*These are the styles for our 5th penguin div.*/
+
+.penguin5:hover {
+    background-image:url('https://drive.google.com/uc?id=1JKaNnv24cAX_Zls-XOpQqb8i0SLoOoZk');
+    cursor: pointer;
+}
+
+.penguin5:active {
+    background-image:url('https://drive.google.com/uc?id=1xemEv0sacEb6g9lpXdKUieuIhuXHBtl-');
+}
+
+.penguin5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=10ZreawSF_Opgvqa-mvNXEWuPVWAnzHar');
+}
+
+/*These are the styles for our 6th penguin div.*/
+
+.penguin6:hover {
+    background-image:url('https://drive.google.com/uc?id=1YFseMu1CVkfhdyfepZf4QNayxUaUgP_e');
+    cursor: pointer;
+}
+
+.penguin6:active {
+    background-image:url('https://drive.google.com/uc?id=1wNfv4mW8Z2J_SbzHm_f97kmVwPUnjS4Z');
+}
+
+.penguin6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=17MXWtqMIACjmculApVZQkIX1LRldgBP7');
+}
+
+/*These are the styles for our 7th penguin div.*/
+
+.penguin7:hover {
+    background-image:url('https://drive.google.com/uc?id=1crXsEe3idoi6fxjJbST4EipoZEvGFTk-');
+    cursor: pointer;
+}
+
+.penguin7:active {
+    background-image:url('https://drive.google.com/uc?id=1zNNUWj_Oxvu13F66p5BbiQ0pUG3Z1CXb');
+}
+
+.penguin7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1uxhbfERWEgUqIgMCiUwfgIAwQ9yknLgB');
+}
+
+/*These are the styles for our 8th penguin div.*/
+
+.penguin8:hover {
+    background-image:url('https://drive.google.com/uc?id=11IPBCgsXO7bxETS6aVhVBAwFM7sLnG7G');
+    cursor: pointer;
+}
+
+.penguin8:active {
+    background-image:url('https://drive.google.com/uc?id=14Z5s0pa4kN7aGWnFPmm4v_7ZvCfPJ0O5');
+}
+
+.penguin8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1yaA_Xvps-QhOjIFSoJANQh-g2GHSry4X');
+}
+
+/*These are the styles for our yeti div.*/
+
+.yeti:hover {
+    background-image:url('https://drive.google.com/uc?id=1tvXZ-wVzCEFHOuI_pm3abwWDeYfiNIMi');
+    cursor: pointer;
+}
+
+.yeti:active {
+    background-image:url('https://drive.google.com/uc?id=1U3uOW04COEZskq9hX2z8gpzaNtrHg4bs');
+}
+
+.yeti {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('https://drive.google.com/uc?id=1LWoZL_5xQXH7nIpRyo1EI-B8iZYVgSx2');
+}
+
+
+
